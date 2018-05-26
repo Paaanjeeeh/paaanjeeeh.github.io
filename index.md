@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Paaanjeeeh/paaanjeeeh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Paaanjeeeh/paaanjeeeh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(a) Deskripsi aplikasi/project dalam bahasa inggris
+So our team, openGL Ways make a place like barn with stair, balcony and two rotating fans. it is a assignment from our lecturer, Mr Eriq.
+ 
+(b) link download executable aplikasi/project
+ 
+(c) link source project yg diupload di github.com 
+(d) video yang berisi capture hasil render 3D program
+(e) anggota tim (tulis nama lengkap)
+Firmanda Mulyawan Nugroho - 155150201111102
+Muhammad Salman Ramadhan - 155150207111149
+Panji Yodantara - 155150207111045
+Mokhamad Zukruf Mifta Al Firdaus - 155150207111015
+Galang Putratama - 155150201111060
+Ahmad Fadli Naharu - 155150200111049
